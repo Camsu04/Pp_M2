@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688139792 source:/home/kali/Pp_M2/Proyectos Code/prueba/Estructura de datos estudiantil /main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
