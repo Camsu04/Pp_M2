@@ -98,9 +98,17 @@ namespace Calculadora
 
         private void btnSigno_Click(object sender, EventArgs e)
         {
-            Numero1 = Convert.ToDouble(txtResultado.Text);
-            Numero1 *= -1;
-            txtResultado.Text = Numero1.ToString();
+            string texto = txtResultado.text;
+
+            if (texto.StartsWith("-"))
+            {
+                texto = texto.Substring(1);
+            }
+            else
+            {
+                texto = "-" + texto;
+            }
+            txtResultado.Text = texto;
         }
 
         private void clickOperador(object sender, EventArgs e)
