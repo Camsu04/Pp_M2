@@ -1,0 +1,28 @@
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\bin\Debug\RisXpert_App.exe.config
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\bin\Debug\RisXpert_App.exe
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\bin\Debug\RisXpert_App.pdb
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\bin\Debug\LiteDB.dll
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\bin\Debug\LiteDB.xml
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\obj\Debug\RisXpert_App.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\obj\Debug\RisXpert_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\obj\Debug\RisXpert_App.Form1.resources
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\obj\Debug\RisXpert_App.Properties.Resources.resources
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\obj\Debug\RisXpert_App.csproj.GenerateResource.cache
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\obj\Debug\RisXpert_App.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\obj\Debug\RisXpert_App.csproj.CopyComplete
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\obj\Debug\RisXpert_App.exe
+C:\Users\HP\Documents\ITLA\Tareas\PPM\Repositorio\EricPina_2023-0042\RisXpert\RisXpert_App\obj\Debug\RisXpert_App.pdb
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\bin\Debug\RisXpert_App.exe.config
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\bin\Debug\RisXpert_App.exe
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\bin\Debug\RisXpert_App.pdb
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\bin\Debug\LiteDB.dll
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\bin\Debug\LiteDB.xml
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\obj\Debug\RisXpert_App.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\obj\Debug\RisXpert_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\obj\Debug\RisXpert_App.Properties.Resources.resources
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\obj\Debug\RisXpert_App.csproj.GenerateResource.cache
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\obj\Debug\RisXpert_App.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\obj\Debug\RisXpert_App.csproj.CopyComplete
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\obj\Debug\RisXpert_App.exe
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\obj\Debug\RisXpert_App.pdb
+C:\Users\kenne\OneDrive\Documents\Proyecto Final\Risxpert\obj\Debug\RisXpert_Project.Form1.resources
